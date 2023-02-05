@@ -22,4 +22,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="x64\result\001.PNG">
+      <Filter>result</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

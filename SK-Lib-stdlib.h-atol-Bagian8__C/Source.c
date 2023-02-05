@@ -9,7 +9,7 @@
     I.D.E : VS2022
 */
 
-int main(void) {
+int main() {
     char* str = NULL;
     long    value = 0;
 
